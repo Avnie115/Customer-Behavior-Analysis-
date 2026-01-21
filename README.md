@@ -5,6 +5,7 @@ An end-to-end data analytics project transforming raw retail data into actionabl
 
 
 Customer Shopping Behavior Analysis: End-to-End Data Analytics Project
+
 📌 Project Overview
 This project analyzes transactional data from 3,900 purchases to uncover deep insights into customer spending patterns, segmentation, and subscription health. By integrating data engineering and business analytics, the project provides a strategic roadmap for increasing customer retention and optimizing revenue.
 
